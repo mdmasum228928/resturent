@@ -39,6 +39,9 @@ body{
 .header_area{
     background: rgba(0, 0, 0, 0.05);
 }
+.menu_icon{
+   display: none;
+}
 .menu{
     display: flex;
     justify-content: space-between;
@@ -105,7 +108,6 @@ body{
     background: #1a1916;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    font-size: 18px;
 }
 .banner_button a:last-of-type{
     background: #c2b577;
@@ -321,7 +323,7 @@ body{
     margin-top: 45px;
     padding-bottom: 105px;
 }
-.guest_span spna{
+.guest_span span{
     font-size: 18px;
     color: #ffffff;
     font-family: 'Lato', sans-serif;

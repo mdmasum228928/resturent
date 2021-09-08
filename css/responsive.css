@@ -1,0 +1,508 @@
+@media (max-width: 575.98px) {
+    .menu_icon{
+        display: block;
+     }
+     .menu_item{
+        display: none;
+     }
+     .banner_area h2{
+        font-size: 40px;
+    }
+    .banner_button a{
+        font-size: 15px;
+        padding: 15px 20px;
+    }
+    /* ========= header area ends ====== */
+    /* about area starts */
+    .about_left{
+        width: 100%;
+    }
+    .about_right{
+        width: 100%;
+        margin-left: 0%;
+        margin-top: 50px;
+    }
+    /* ====== about area ends =======*/
+    /* fine area starts */
+    .fine_box{
+        width: 365px;
+        height: 500px;
+        margin-left: 20%;
+    }
+    .fine_all{
+        margin: 0 40px;
+    }
+    .fine_all h2{
+        font-size: 20px;
+    }
+    .fine_all p{
+        font-size: 13px;
+    }
+    .fine_img img{
+        margin-left: 30px;
+        width: 70px;
+    }
+    /* ====== fine area ends ====== */
+    /* price area starts */
+    .price_area{
+        display: block;
+    }
+    .price_left{
+        width: 100%;
+    }
+    .price_right{
+        width: 100%;
+        margin-left: 0%;
+    }
+    /* =========== price area ends ========= */
+    /* guest area starts */
+    .guest_area{
+        margin-left: 20%;
+        margin-right: 0;
+    }
+    .guest_box{
+        width: 365px;
+    }
+    .guest_all{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .guest_head h2{
+        font-size: 20px;
+    }
+    .guest_text img{
+        width: 15px;
+    }
+    .guest_text p{
+        margin-left: 25px;
+        font-size: 15px;
+    }
+    .guest_span span{
+        font-size: 14px;
+    }
+    /* =========== guest area ends ======= */
+    /* contact area starts */
+    .contact_area{
+        display: block;
+        flex-wrap: wrap;
+    }
+    .contact_left{
+        width: 100%;
+        margin-right: 0%;
+    }
+    .contact_left img{
+        width: 46.2%;
+    }
+    .contact_right{
+        width:100%;
+    }
+    .contact_text h2{
+        font-size: 20px;
+        margin-top: 50px;
+    }
+    /* =========== contact area ends =========*/
+    /* footer area starts */
+    .footer_area{
+        display: block;
+        justify-content: space-between;
+        padding: 60px 0 72px;
+    }
+    .footer_left{
+        width: 100%;
+    }
+    .footer_middle{
+        margin: 50px 0 50px;
+        width: 100%;
+    }
+    .footer_right{
+        width: 100%;
+    }
+    .footer_right p{
+        margin-right: 125px;
+        margin-left: 125px;
+    }
+    
+    /* footer area ends */
+ }
+ /* ==========-----------===== 575px area ends ============ ---------- ======== */
+
+ /* ===========----- 576-767px area starts =========------- */
+ @media (min-width: 576px) and (max-width: 767.98px) {
+    .menu_icon{
+        display: block;
+     }
+     .menu_item{
+        display: none;
+     }
+     .banner_area h2{
+        font-size: 40px;
+    }
+    .banner_button a{
+        font-size: 15px;
+        padding: 15px 20px;
+    }
+    /* ========= header area ends ====== */
+    /* about area starts */
+    .about_left{
+        width: 100%;
+    }
+    .about_right{
+        width: 100%;
+        margin-left: 0%;
+        margin-top: 50px;
+    }
+    /* ====== about area ends =======*/
+    /* fine area starts */
+    .fine_box{
+        width: 365px;
+        height: 500px;
+        margin-left: 20%;
+    }
+    .fine_all{
+        margin: 0 40px;
+    }
+    .fine_all h2{
+        font-size: 20px;
+    }
+    .fine_all p{
+        font-size: 13px;
+    }
+    .fine_img img{
+        margin-left: 30px;
+        width: 70px;
+    }
+    /* ====== fine area ends ====== */
+    /* price area starts */
+    .price_area{
+        display: block;
+    }
+    .price_left{
+        width: 100%;
+    }
+    .price_right{
+        width: 100%;
+        margin-left: 0%;
+    }
+    /* =========== price area ends ========= */
+    /* guest area starts */
+    .guest_area{
+        margin-left: 20%;
+        margin-right: 0;
+    }
+    .guest_box{
+        width: 365px;
+    }
+    .guest_all{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .guest_head h2{
+        font-size: 20px;
+    }
+    .guest_text img{
+        width: 15px;
+    }
+    .guest_text p{
+        margin-left: 25px;
+        font-size: 15px;
+    }
+    .guest_span span{
+        font-size: 14px;
+    }
+    /* =========== guest area ends ======= */
+    /* contact area starts */
+    .contact_area{
+        display: block;
+        flex-wrap: wrap;
+    }
+    .contact_left{
+        width: 100%;
+        margin-right: 0%;
+    }
+    .contact_left img{
+        width: 46.2%;
+    }
+    .contact_right{
+        width:100%;
+    }
+    .contact_text h2{
+        font-size: 20px;
+        margin-top: 50px;
+    }
+    /* =========== contact area ends =========*/
+    /* footer area starts */
+    .footer_area{
+        display: block;
+        justify-content: space-between;
+        padding: 60px 0 72px;
+    }
+    .footer_left{
+        width: 100%;
+    }
+    .footer_middle{
+        margin: 50px 0 50px;
+        width: 100%;
+    }
+    .footer_right{
+        width: 100%;
+    }
+    .footer_right p{
+        margin-right: 125px;
+        margin-left: 125px;
+    }
+    
+    /* footer area ends */
+ }
+ /* ==========-----------===== 767px area ends ============ ---------- ======== */
+ /* ===========----- 768-991px area starts =========------- */
+ @media (min-width: 768px) and (max-width: 991.98px) {
+    .menu_icon{
+        display: block;
+     }
+     .menu_item{
+        display: none;
+     }
+     .banner_area h2{
+        font-size: 40px;
+        margin-left:10% ;
+        margin-right: 10%;
+    }
+    .banner_button a{
+        font-size: 15px;
+        padding: 15px 20px;
+    }
+    /* ========= header area ends ====== */
+    /* about area starts */
+    .about_left{
+        width: 100%;
+    }
+    .about_right{
+        width: 100%;
+        margin-left: 0%;
+        margin-top: 50px;
+    }
+    /* ====== about area ends =======*/
+    /* fine area starts */
+    .fine_box{
+        width: 70%;
+        height: 500px;
+        margin-left: 20%;
+    }
+    .fine_all{
+        margin: 0 40px;
+    }
+    .fine_all h2{
+        font-size: 30px;
+    }
+    .fine_all p{
+        font-size: 15px;
+    }
+    .fine_img img{
+        margin-left: 30px;
+        width: 30%;
+    }
+    /* ====== fine area ends ====== */
+    /* price area starts */
+    .price_area{
+        display: block;
+    }
+    .price_left{
+        width: 100%;
+    }
+    .price_right{
+        width: 100%;
+        margin-left: 0%;
+    }
+    /* =========== price area ends ========= */
+    /* guest area starts */
+    .guest_area{
+        margin-left: 20%;
+        margin-right: 0;
+    }
+    .guest_box{
+        width: 90%;
+    }
+    .guest_all{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .guest_head h2{
+        font-size: 30px;
+    }
+    .guest_text img{
+        width: 15px;
+    }
+    .guest_text p{
+        margin-left: 25px;
+        font-size: 15px;
+    }
+    .guest_span span{
+        font-size: 14px;
+    }
+    /* =========== guest area ends ======= */
+    /* contact area starts */
+    .contact_area{
+        display: block;
+        flex-wrap: wrap;
+    }
+    .contact_left{
+        width: 100%;
+        margin-right: 0%;
+    }
+    .contact_left img{
+        width: 46.2%;
+    }
+    .contact_right{
+        width:100%;
+    }
+    .contact_text h2{
+        font-size: 20px;
+        margin-top: 50px;
+    }
+    /* =========== contact area ends =========*/
+    /* footer area starts */
+    .footer_area{
+        display: block;
+        justify-content: space-between;
+        padding: 60px 0 72px;
+    }
+    .footer_left{
+        width: 100%;
+    }
+    .footer_middle{
+        margin: 50px 0 50px;
+        width: 100%;
+    }
+    .footer_right{
+        width: 100%;
+    }
+    .footer_right p{
+        margin-right: 125px;
+        margin-left: 125px;
+    }
+    
+    /* footer area ends */
+ }
+  /* ==========-----------===== 991px area ends ============ ---------- ======== */
+   /* ===========----- 992px-1199px area starts =========------- */
+   @media (min-width: 992px) and (max-width: 1199.98px){
+    .menu_icon{
+        display: block;
+     }
+     .menu_item{
+        display: none;
+     }
+     .banner_area h2{
+        font-size: 40px;
+        margin-left:10% ;
+        margin-right: 10%;
+    }
+    .banner_button a{
+        font-size: 15px;
+        padding: 15px 20px;
+    }
+    /* ========= header area ends ====== */
+    /* about area starts */
+    .about_left h5{
+        font-size: 30px;
+    }
+    .about_left p{
+        font-size: 12px;
+    }
+    .about_img img{
+        margin-top: 50px;
+        width: 50%;
+    }
+    /* ====== about area ends =======*/
+    /* fine area starts */
+    .fine_box{
+        width: 70%;
+        height: 500px;
+        margin-left: 20%;
+    }
+    .fine_all{
+        margin: 0 40px;
+    }
+    .fine_all h2{
+        font-size: 30px;
+    }
+    .fine_all p{
+        font-size: 15px;
+    }
+    .fine_img img{
+        margin-left: 30px;
+        width: 30%;
+    }
+    /* ====== fine area ends ====== */
+    /* price area starts */
+    
+    /* =========== price area ends ========= */
+    /* guest area starts */
+    .guest_area{
+        margin-left: 20%;
+        margin-right: 0;
+    }
+    .guest_box{
+        width: 90%;
+    }
+    .guest_all{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .guest_head h2{
+        font-size: 30px;
+    }
+    .guest_text img{
+        width: 15px;
+    }
+    .guest_text p{
+        margin-left: 25px;
+        font-size: 15px;
+    }
+    .guest_span span{
+        font-size: 14px;
+    }
+    /* =========== guest area ends ======= */
+    /* contact area starts */
+    .contact_area{
+        display: block;
+        flex-wrap: wrap;
+    }
+    .contact_left{
+        width: 100%;
+        margin-right: 0%;
+    }
+    .contact_left img{
+        width: 46.2%;
+    }
+    .contact_right{
+        width:100%;
+    }
+    .contact_text h2{
+        font-size: 20px;
+        margin-top: 50px;
+    }
+    /* =========== contact area ends =========*/
+    /* footer area starts */
+    .footer_area{
+        display: block;
+        justify-content: space-between;
+        padding: 60px 0 72px;
+    }
+    .footer_left{
+        width: 100%;
+    }
+    .footer_middle{
+        margin: 50px 0 50px;
+        width: 100%;
+    }
+    .footer_right{
+        width: 100%;
+    }
+    .footer_right p{
+        margin-right: 125px;
+        margin-left: 125px;
+    }
+    
+    /* footer area ends */
+ }
