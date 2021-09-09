@@ -257,11 +257,14 @@ body{
     width: 45%;
     margin-left: 10%;
 }
+.sp{
+    display: flex;
+    justify-content: end;
+}
 .ssapn{
     padding: 6px 15px;
     background: #d4b764;
     display: inline-block;
-    margin-left: 85%;
 }
 .ssapn span{
     font-size: 14px;
@@ -351,7 +354,7 @@ body{
     height: 530px;
 }
 .contact_left img:nth-of-type(even){
-    margin-left: 30px;
+    margin-left: 6.2%;
 }
 .contact_right{
     width:45%;
